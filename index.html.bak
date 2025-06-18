@@ -73,7 +73,7 @@
                           <li><strong>Departamento dos Tranportes</strong></li>
                           <li>Permit de Passageiros (Regular)</li>
                         </ul>
-                        AMK 453 MC
+                        ADM 893 MC<br>
                         <ul class="list-unstyled text-right">
                           <li><strong>REPUBLIC OF MOZAMBIQUE</strong></li>
                           <li><strong>MINISTRY OF TRANSPORT AND LOGISTICS</strong></li>
@@ -81,7 +81,7 @@
                               Safety</strong></li>
                           <li><strong>Department of Transport</strong></li>
                           <li>Permit of Passageiros (Regular)</li>
-                          <li>AMK 453 MC</li>
+                          <li>ADM 893 MC</li>
                         </ul>
                       </div>
                     </div>
@@ -91,19 +91,19 @@
                       <div class="invoice-details mt25">
                         <div class="well">
                           <ul class="list-unstyled mb0">
-                            <li><strong>Código / Code</strong> #11771</li>
+                            <li><strong>Código / Code</strong> #11775</li>
                             <li><strong>Data da Requisição / Requisition Date</strong>
-                              13/06/2025</li>
+                              18/06/2025</li>
                           </ul>
                         </div>
                       </div>
                       <div class="invoice-to mt25">
                         <ul class="list-unstyled">
                           <li><strong>Cliente / Client </strong></li>
-                          <li>CARLOS ARMANDO MANHICE</li>
+                          <li>FREDERICO LOPES AMBROSIO</li>
                           <li><strong>Requisitada Por / Requested By</strong></li>
-                          <li>CARLOS ARMANDO MANHICE</li>
-                          <li><strong>NUIT:</strong> 122 753 409</li>
+                          <li>FREDERICO LOPES AMBROSIO</li>
+                          <li><strong>NUIT:</strong> 300 225 071</li>
                           <li><strong>BI / ID</strong> 11010265331P</li>
                         </ul>
                       </div>
@@ -126,17 +126,17 @@
                               <tr>
                                 <th colspan="2" class="text-right">Data de
                                   Emissão / Emission Date</th>
-                                <th class="text-center">13/06/2025</th>
+                                <th class="text-center">18/06/2025</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Data de
                                   Validade / Valid Date</th>
-                                <th class="text-center">13/12/2025</th>
+                                <th class="text-center">18/06/2026</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Matricula /
                                   Registration Car</th>
-                                <th class="text-center">AMK 453 MC</th>
+                                <th class="text-center">ADM 893 MC</th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Marca / Brand</th>
@@ -165,7 +165,7 @@
                               <tr>
                                 <th colspan="2" class="text-right">ORIGEM /
                                   ORIGIN </th>
-                                <th class="text-center">MASSINGA </th>
+                                <th class="text-center">BAIXA </th>
                               </tr>
                               <tr>
                                 <th colspan="2" class="text-right">Trânsito /
@@ -181,7 +181,7 @@
                               <tr>
                                 <th colspan="2" class="text-right">Destino /
                                   Destiny</th>
-                                <th class="text-center">PRETORIA TAXI RANK</th>
+                                <th class="text-center">DURBAN</th>
                               </tr>
                             </tbody>
                           </table>
